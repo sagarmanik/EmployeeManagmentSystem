@@ -65,9 +65,4 @@ http://localhost:8080/
 
 
 
-![Screenshot 2025-05-19 224703](https://github.com/user-attachments/assets/bffa7a60-43c7-40a0-8744-72fcf79acab6)
-![Screenshot 2025-05-19 224723](https://github.com/user-attachments/assets/646a3ddb-bed6-4214-bf4a-3e15563542c4)
-
-![Screenshot 2025-05-19 224741](https://github.com/user-attachments/assets/bac39d9a-1d2a-4cc8-9b5d-20e7928afa05)
-![Screenshot 2025-05-19 224757](https://github.com/user-attachments/assets/a8609b40-9637-41c0-8f2b-974b610bc682)
 
